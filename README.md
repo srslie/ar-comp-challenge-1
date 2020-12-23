@@ -4,7 +4,7 @@ Videaux is a classy platform for sharing videos, creating playlists, and saving 
 
 This is a comp-matching exercise for Turing School Mod 2. The goal was to replicate the layout using basic HTML5 and CSS.
 
-Deployed site on GitHubPages, [here.]()
+Deployed site on GitHubPages, [here.](https://srslie.github.io/ar-comp-challenge-1/)
 
 ## Contributors
 
@@ -26,11 +26,11 @@ If time and scope allowed, I would have gone back to:
 
 Here is the image provided in the comp:
 
-[Image of 2Win! Static Website](https://frontend.turing.io/assets/images/static-comp-challenge-2.jpg_)
+![Image of 2Win! Static Website](https://frontend.turing.io/assets/images/static-comp-challenge-2.jpg_)
 
 Here is my rendering, which copies the layout but takes the optional creative license with copy, images, icons, and color palette.
 
-[Image of my Videux! Static Website]()
+![Image of my Videux! Static Website]()
 
 Additonally, my site uses a breakpoint to to change display for smaller devices or screens.
 
